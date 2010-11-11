@@ -1,0 +1,13 @@
+MANIFEST.in
+Makefile
+PKGBUILD
+README.txt
+decoroute.py
+demo.py
+setup.py
+test.py
+decoroute.egg-info/PKG-INFO
+decoroute.egg-info/SOURCES.txt
+decoroute.egg-info/dependency_links.txt
+decoroute.egg-info/top_level.txt
+decoroute.egg-info/zip-safe
