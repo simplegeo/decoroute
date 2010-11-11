@@ -1,0 +1,20 @@
+Source: decoroute
+Section: unknown
+Priority: extra
+Maintainer: Ian Eure <ian@simplegeo.com>
+Build-Depends: cdbs,
+ debhelper (>= 7),
+ python,
+ python-setuptools,
+ python-support,
+ python-nose
+Standards-Version: 3.8.3
+Homepage: http://pypi.python.org/pypi/decoroute/0.8.1
+
+Package: python-decoroute
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Pattern-matching based WSGI-compliant URL routing tool
+ Decorator style and pattern-matching based url routing library. No
+ framework! Very compact. Core logic less 100 lines of code. WSGI
+ compliant. No additional API required.
