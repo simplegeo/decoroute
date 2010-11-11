@@ -1,3 +1,14 @@
+decoroute (0.8.1-0sg1) lucid; urgency=low
+
+  [ Ian Eure ]
+  * Update standards-version.
+  * Fix.
+  * Run tests & coverage in the build.
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Thu, 11 Nov 2010 18:43:53 +0000
+
 decoroute (0.8.1-0sg0) foss-development; urgency=low
 
   * SimpleGeoized.
