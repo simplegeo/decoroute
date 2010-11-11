@@ -8,7 +8,8 @@ Build-Depends: cdbs,
  python,
  python-setuptools,
  python-support,
- python-nose
+ python-nose,
+ python-coverage
 Standards-Version: 3.9.1
 Homepage: http://pypi.python.org/pypi/decoroute/0.8.1
 
